@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="Performing a Login" timestamp="2021-09-28T13:00:02" time="7.7" tests="1" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="0"/>
+      <property name="featureName" value="Performing a Login"/>
+      <property name="capabilities" value="chrome.93_0_4577_63.macosx"/>
+      <property name="featureFile" value="./features/newToursLoginPageObject.feature"/>
+    </properties>
+    <testcase classname="CucumberJUnitReport-chrome.93_0_4577_63.macosx.Performing a Login" name="Login with a default user" time="7.684">
+      <system-out><![CDATA[
+✅ Given I'm on the login page✅ When I log in with a default user✅ Then I shall be on the Flight Finder page
+]]></system-out>
+    </testcase>
+  </testsuite>
+</testsuites>

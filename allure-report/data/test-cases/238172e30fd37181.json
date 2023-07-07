@@ -1,0 +1,56 @@
+{
+  "uid" : "238172e30fd37181",
+  "name" : "Given I'm on the login page",
+  "fullName" : "Performing a Login: Login with a default user.Given I'm on the login page",
+  "historyId" : "2d109c4c6cffb19d1cee500f91a547ac",
+  "time" : {
+    "start" : 1632818475842,
+    "stop" : 1632818480511,
+    "duration" : 4669
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Performing a Login: Login with a default user"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing a Login: Login with a default user"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I'm on the login page"
+  }, {
+    "name" : "package",
+    "value" : "Performing a Login: Login with a default user"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-93.0.4577.63"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "238172e30fd37181.json",
+  "parameterValues" : [ "chrome-93.0.4577.63" ]
+}

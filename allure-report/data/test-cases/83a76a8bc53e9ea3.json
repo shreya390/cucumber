@@ -1,0 +1,74 @@
+{
+  "uid" : "83a76a8bc53e9ea3",
+  "name" : "When I log in with a default user",
+  "fullName" : "Performing a Login: Login with a default user.When I log in with a default user",
+  "historyId" : "8b6b603d99d727431ee41d48367fdbb8",
+  "time" : {
+    "start" : 1632818720107,
+    "stop" : 1632818721986,
+    "duration" : 1879
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Performing a Login: Login with a default user"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing a Login: Login with a default user"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I log in with a default user"
+  }, {
+    "name" : "package",
+    "value" : "Performing a Login: Login with a default user"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-93.0.4577.63"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "db7a09e70a6588ad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632818700690,
+        "stop" : 1632818703521,
+        "duration" : 2831
+      }
+    }, {
+      "uid" : "5b315d97afa27fce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632818480511,
+        "stop" : 1632818482300,
+        "duration" : 1789
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "83a76a8bc53e9ea3.json",
+  "parameterValues" : [ "chrome-93.0.4577.63" ]
+}

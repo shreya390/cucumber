@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Sep 28 14:15:14 IST 2021","Tue Sep 28 14:15:20 IST 2021","5817","","Performing a Login: Login with a default user","","Performing a Login: Login with a default user","Given I'm on the login page","Given I'm on the login page",""
+"passed","Tue Sep 28 14:15:24 IST 2021","Tue Sep 28 14:15:24 IST 2021","0","","Performing a Login: Login with a default user","","Performing a Login: Login with a default user","","",""
+"passed","Tue Sep 28 14:15:21 IST 2021","Tue Sep 28 14:15:24 IST 2021","2602","","Performing a Login: Login with a default user","","Performing a Login: Login with a default user","Then I shall be on the Flight Finder page","Then I shall be on the Flight Finder page",""
+"passed","Tue Sep 28 14:15:20 IST 2021","Tue Sep 28 14:15:21 IST 2021","1879","","Performing a Login: Login with a default user","","Performing a Login: Login with a default user","When I log in with a default user","When I log in with a default user",""

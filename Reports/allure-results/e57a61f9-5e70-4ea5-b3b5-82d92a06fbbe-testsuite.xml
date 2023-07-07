@@ -1,0 +1,84 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1632828749186' stop='1632828763138'>
+    <name>Performing timeouts operation: Performing action</name>
+    <title>Performing timeouts operation: Performing action</title>
+    <test-cases>
+        <test-case start='1632828749186' status='passed' stop='1632828749188'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-93.0.4577.63'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1632828749188' status='passed' stop='1632828762445'>
+            <name>Given I'm on the webdriverio page</name>
+            <title>Given I'm on the webdriverio page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-93.0.4577.63'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1632828762445' status='passed' stop='1632828762762'>
+            <name>When I have the right title</name>
+            <title>When I have the right title</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-93.0.4577.63'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1632828762762' status='broken' stop='1632828763137'>
+            <name>Then I will be performing timeouts action</name>
+            <title>Then I will be performing timeouts action</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-93.0.4577.63'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Error: Parameter for "setTimeout" command needs to be an object</message>
+                <stack-trace>Error: Parameter for "setTimeout" command needs to be an object
+                    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+                    at Browser.setTimeout (/Users/shreyaputhi/cucumber/node_modules/@wdio/utils/build/shim.js:270:24)
+                    at World.&lt;anonymous> (/Users/shreyaputhi/cucumber/features/step-definitions/timeouts.js:18:13)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1632828763137' status='passed' stop='1632828763138'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-93.0.4577.63'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

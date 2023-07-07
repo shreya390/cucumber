@@ -1,0 +1,41 @@
+[ {
+  "uid" : "93231db9268582db",
+  "name" : "Given I'm on the login page",
+  "time" : {
+    "start" : 1632818714290,
+    "stop" : 1632818720107,
+    "duration" : 5817
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "27bf732cac07432d",
+  "name" : "",
+  "time" : {
+    "start" : 1632818724588,
+    "stop" : 1632818724588,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d1ead6fec69fc2d4",
+  "name" : "Then I shall be on the Flight Finder page",
+  "time" : {
+    "start" : 1632818721986,
+    "stop" : 1632818724588,
+    "duration" : 2602
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "83a76a8bc53e9ea3",
+  "name" : "When I log in with a default user",
+  "time" : {
+    "start" : 1632818720107,
+    "stop" : 1632818721986,
+    "duration" : 1879
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

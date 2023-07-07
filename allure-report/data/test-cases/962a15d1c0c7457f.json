@@ -1,0 +1,56 @@
+{
+  "uid" : "962a15d1c0c7457f",
+  "name" : "Then I shall be on the Flight Finder page",
+  "fullName" : "Performing a Login: Login with a default user.Then I shall be on the Flight Finder page",
+  "historyId" : "dbb3ebd14f4ed595ed6cb315c874a032",
+  "time" : {
+    "start" : 1632818482300,
+    "stop" : 1632818484789,
+    "duration" : 2489
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Performing a Login: Login with a default user"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing a Login: Login with a default user"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I shall be on the Flight Finder page"
+  }, {
+    "name" : "package",
+    "value" : "Performing a Login: Login with a default user"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-93.0.4577.63"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "962a15d1c0c7457f.json",
+  "parameterValues" : [ "chrome-93.0.4577.63" ]
+}
